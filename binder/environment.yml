@@ -1,0 +1,10 @@
+name: radiocarbon-calib
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - pymc
+  - jupyterlab
+  - arviz
